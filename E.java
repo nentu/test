@@ -19,8 +19,4 @@ public class E implements I {
     public int hh() {
         return new java.util.Random().nextInt();
     }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
 }
