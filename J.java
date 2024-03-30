@@ -23,4 +23,8 @@ public class J implements I {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public Object pp() {
+        return this;
+    }
 }
