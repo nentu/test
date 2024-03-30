@@ -15,4 +15,8 @@ public class B {
     public double ad() {
         return 9.11;
     }
+
+    public void ab() {
+        return;
+    }
 }
